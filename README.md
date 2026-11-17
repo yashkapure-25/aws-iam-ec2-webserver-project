@@ -56,8 +56,6 @@ Verified that the website was accessible using the EC2 instance's public IPv4 ad
 
 http://32.200.159.96
 
-Replace this placeholder with your actual live website URL.
-
 ## Project Screenshots
 
 Screenshots documenting IAM configuration, EC2 deployment, Security Group rules, Apache installation, and the live website are available in the `screenshots` folder.
